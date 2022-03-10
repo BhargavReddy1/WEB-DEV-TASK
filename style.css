@@ -5,7 +5,7 @@ padding: 0;
 
 }
 body{
-    background-image: url(survebackground.jpg);
+    background-image:url(survebackground.jpg);
 background-attachment:fixed;
 background-position:center;
 background-size:cover;
@@ -95,4 +95,13 @@ color: rgb(255, 174, 23);
 
     background-color: orange;
     color: black;
+}
+@media screen and (max-width=700px)
+{
+    
+    
+    
+    
+    
+
 }
