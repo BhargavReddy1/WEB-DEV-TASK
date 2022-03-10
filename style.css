@@ -1,0 +1,98 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+body{
+    background-image: url(survebackground.jpg);
+background-attachment:fixed;
+background-position:center;
+background-size:cover;
+background-repeat: no-repeat;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.heading{
+color:black;
+border-color: black;
+    margin-top: 50px;
+    margin-left: 450px;
+    text-emphasis-color: black;
+}
+div.FORM{
+    color: white;
+    font-family: Helvetica;
+background-color: rgba(0, 0, 0, 0.5);
+
+margin-left: 500px;
+margin-top: 50px;
+margin-right: 500px;
+text-align:left;
+line-height: 30px;
+padding: 20px;
+border-radius: 10px;
+
+
+
+
+}
+#about{
+padding: 5px;
+
+border-radius: 5px;
+
+}
+#name{
+border-radius: 5px;
+padding: 3px;
+
+
+
+
+}
+#DEPARTMENT{
+    border-radius:5px;
+    padding: 3px;
+    
+}
+#submit{
+    background-color: orange;
+margin-left: 126px;
+margin-top: 10px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 10px;
+color:black;
+box-shadow: black,2px,2px;
+border-color: black;
+cursor: pointer;
+transition: 0.5s;
+
+
+
+}
+#submit:hover{
+    background-color: black;
+    color: white;
+}
+.YorN{
+
+color: rgb(255, 174, 23);
+
+    margin-left: 40px;
+}
+.checkbox{
+    margin-left: 40px;
+    color: rgb(255, 181, 44);
+}
+#genre{
+
+    transition: 0.5s;
+}
+#genre:hover{
+
+    background-color: orange;
+    color: black;
+}
